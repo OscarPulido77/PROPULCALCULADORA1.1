@@ -52,7 +52,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--color-dark-background);
-    background-image: url('images/fondo-verde-abstracto-del-grunge.jpg');
+    background-image: url("images/fondo-verde-abstracto-del-grunge.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
